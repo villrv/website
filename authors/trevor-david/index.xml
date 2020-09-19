@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trevor David on Astro Data Group</title>
+    <link>https://astrodata.nyc/authors/trevor-david/</link>
+    <description>Recent content in Trevor David on Astro Data Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://astrodata.nyc/authors/trevor-david/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ambiguous periods</title>
+      <link>https://astrodata.nyc/posts/2020-03-19-ambiguous-periods/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://astrodata.nyc/posts/2020-03-19-ambiguous-periods/</guid>
+      <description>A common problem with algorithmic determination of rotation periods from light curves is that the “best” period may actually be the undertone/subharmonic or harmonic of the true period (in other words, twice or half the true period). Two real examples from the Kepler mission are shown here.
+In the first row of each figure, the Kepler light curve of a star is phase-folded on a period either from the literature or determined using a Lomb-Scargle (L-S) periodogram.</description>
+    </item>
+    
+  </channel>
+</rss>
