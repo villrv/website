@@ -2,25 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>P243</p>
+    <p>60 Garden Street</p>
+    <p>Cambridge, MA 0218</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, my name is V. Ashley Villar! I use data-driven methods and machine learning to study the eruptions, mergers and explosions of stars. I’m especially interested in utilizing multiband light curves to understand the underlying physics of optical transients.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am an Assistant Professor of Astronomy at Harvard University. Previously, I was the inaugeral [Mercedes Richards](https://en.wikipedia.org/wiki/Mercedes_Richards) Career Development Professor at Penn State (We Are!).
+
+Between 07/20 and 07/21, I was a Simons Junior Fellow at Columbia University and the Flatiron Institute. I received my PhD in Astronomy & Astrophysics from Harvard in 2020, where I was a NSF Graduate Research Fellow and Ford Foundation Dissertation Fellow working with Edo Berger. I graduated from MIT in 2014 where I majored in physics and minored in mathematics. I wrote my senior thesis with John Johnson and Josh Winn on asteroseismology. I was inspired to study astronomy after reading *Death by Black Hole* by Neil deGrasse Tyson.
+
+In my spare time, I [volunteer](https://astrobites.org/), climb, and do a number of silly projects with my husband like understanding the statistics of [ghost hunting](https://medium.com/@astrovav/the-statistics-of-spirit-boxes-2cf021bf6c3) and training a neural network to [dance](https://medium.com/@astrovav/our-first-dance-a71e07ba350c) at our wedding. I am originally from Vero Beach, Florida and proudly Peruvian-American.
+
+You can find a public, shortened version of my CV [here](https://drive.google.com/file/d/1uifAgH9h_jO-rbpO2F-NzZXe_qLL60iz/view).
